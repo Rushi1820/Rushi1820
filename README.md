@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rushi1820
 - 👀 I’m interested in data science, machine learning
-- 🌱 I’m currently pursing my btech 3rd year at woxsen university
+- 🌱 I’m currently pursing my btech 4th year at woxsen university
 - 💞️ I’m looking to work on the problems related to analytics,predective methods ,social related problems and  I regularly participate in hackathons,competitions
 - 📫 How to reach me rushivardhan18@gmail.com
 
